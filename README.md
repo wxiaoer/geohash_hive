@@ -1,7 +1,7 @@
 # geohash_hive
 point,line,vmap convert to geohashs
 # usage
-jar package in folder artifacts can be use immadiate in hive
+Jar package in folder artifacts can be use immadiately in hive
 # simple
 geohash2angpoints([geohash]) //geohash转栅格的四个角加中心点经纬度
 
